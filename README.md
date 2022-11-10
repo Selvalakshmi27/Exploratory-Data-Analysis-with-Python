@@ -1,6 +1,6 @@
 # Exploratory Data Analysis - Python - Data Visualization
 
-Exploratory analysis of ESBL rates among bacteremia in Enterobacterales using Matplotlib on Jupyter Notebook to create annotated bar graphs, multi-bar graphs, stacked bar graphs and pie-charts. 
+Exploratory analysis of ESBL rates among bacteremia in Enterobacterales using Matplotlib on Jupyter Notebook to create annotated bar graphs, multi-bar graphs, stacked bar graphs and pie-charts. The code for the data visualization is attached above as ESBL-sampling.py 
 
 # Total number of bacteremia cases from 2016 to 2022
 ![bacteremia_subplot](https://user-images.githubusercontent.com/92817251/201225391-bdb5c754-f9cc-426c-b0ec-0ca0f9f4e745.png)
